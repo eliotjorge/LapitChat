@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LapitChat</string>
+    <string name="need_a_new_account">Need a new account</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+</resources>

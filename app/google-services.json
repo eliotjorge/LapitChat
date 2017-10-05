@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349087728449",
+    "firebase_url": "https://fir-autentificacion.firebaseio.com",
+    "project_id": "fir-autentificacion",
+    "storage_bucket": "fir-autentificacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349087728449:android:543d16f4038c7b18",
+        "android_client_info": {
+          "package_name": "es.jorge.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349087728449-c1v1vg6mo4np7m65oktd5okloj6ppof0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.jorge.lapitchat",
+            "certificate_hash": "0913b6e423129b5c3696300b161771e2e6631f2b"
+          }
+        },
+        {
+          "client_id": "349087728449-10eeft3alp5ojme5qgrl28fcocv63rud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZWNk3YYKtQ1oUPOAthk007wJ718l82I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349087728449-10eeft3alp5ojme5qgrl28fcocv63rud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
