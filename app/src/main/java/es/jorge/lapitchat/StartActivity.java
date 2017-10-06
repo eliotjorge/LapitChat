@@ -23,7 +23,6 @@ public class StartActivity extends AppCompatActivity {
 
                 Intent reg_intent = new Intent (StartActivity.this, RegisterActivity.class);
                 startActivity(reg_intent);
-
             }
         });
     }
